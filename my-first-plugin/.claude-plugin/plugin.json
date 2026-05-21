@@ -1,7 +1,7 @@
 {
     "name": "my-first-plugin",
-    "description": "A simple greeting plugin to learn the basics",
-    "version": "1.0.0",
+    "description": "A simple greeting plugin to learn the basics test str",
+    "version": "2.0.0",
     "author": {
         "name": "Sujiu9"
     }
