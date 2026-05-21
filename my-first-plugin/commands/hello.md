@@ -1,5 +1,5 @@
 ---
-description: 🚀 v19 cli plugin update @ 20:23:26
+description: ✅ v20 official cli @ 20:52:24
 ---
 # Hello Command
-🚀 v19 cli plugin update @ 20:23:26
+✅ v20 official cli @ 20:52:24
