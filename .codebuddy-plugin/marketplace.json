@@ -5,14 +5,14 @@
     "name": "Sujiu9"
   },
   "metadata": {
-    "version": "18.0.0"
+    "version": "19.0.0"
   },
   "plugins": [
     {
       "name": "my-first-plugin",
-      "description": "🎯 v18 cli verify @ 20:22:25",
+      "description": "🚀 v19 cli plugin update @ 20:23:26",
       "source": "./my-first-plugin",
-      "version": "18.0.0",
+      "version": "19.0.0",
       "author": {
         "name": "Sujiu9"
       }
