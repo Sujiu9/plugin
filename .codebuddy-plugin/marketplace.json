@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "my-first-plugin",
-      "description": "A simple greeting plugin to learn the basics v3 UI-VERIFY",
+      "description": "\u2605\u2605\u2605 REFRESHED at 15:26:42 \u2014 if you see this in UI, the bug is FIXED \u2605\u2605\u2605",
       "source": "./my-first-plugin",
       "version": "3.0.0",
       "author": {
