@@ -1,7 +1,7 @@
 ---
-description: 🔥🔥 v6 SYNCED 15:44:29 — bug FIXED 🔥🔥
+description: 🟢 v7 by 插件级「更新」按钮 15:47:05
 ---
 
 # Hello Command
 
-🔥🔥 v6 SYNCED 15:44:29 — bug FIXED 🔥🔥
+🟢 v7 by 插件级「更新」按钮 15:47:05
