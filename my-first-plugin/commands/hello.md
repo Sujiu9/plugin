@@ -1,5 +1,5 @@
 ---
-description: 🌟 v16 retest @ 20:14:26
+description: ⚡ v17 detail @ 20:15:48
 ---
 # Hello Command
-🌟 v16 retest @ 20:14:26
+⚡ v17 detail @ 20:15:48
