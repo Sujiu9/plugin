@@ -1,0 +1,15 @@
+{
+  "name": "test-cc-marketplace",
+  "description": "Test marketplace for refresh bug verification",
+  "owner": { "name": "Sujiu9" },
+  "metadata": { "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "description": "A simple greeting plugin to learn the basics",
+      "source": "./my-first-plugin",
+      "version": "1.0.0",
+      "author": { "name": "Sujiu9" }
+    }
+  ]
+}
