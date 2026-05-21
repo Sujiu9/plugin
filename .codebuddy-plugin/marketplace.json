@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "my-first-plugin",
-      "description": "\u2705 v5 \u2014 clicked market refresh button at 15:37:50",
+      "description": "\ud83d\udd25\ud83d\udd25 v6 SYNCED 15:44:29 \u2014 bug FIXED \ud83d\udd25\ud83d\udd25",
       "source": "./my-first-plugin",
       "version": "3.0.0",
       "author": {
