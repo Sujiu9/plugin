@@ -5,14 +5,14 @@
     "name": "Sujiu9"
   },
   "metadata": {
-    "version": "21.0.0"
+    "version": "22.0.0"
   },
   "plugins": [
     {
       "name": "my-first-plugin",
-      "description": "🎬 v21 录屏演示 @ 20:59:11",
+      "description": "🎬 v22 录屏演示 @ 21:08:20",
       "source": "./my-first-plugin",
-      "version": "21.0.0",
+      "version": "22.0.0",
       "author": {
         "name": "Sujiu9"
       }
