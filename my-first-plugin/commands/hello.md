@@ -1,5 +1,5 @@
 ---
-description: ⚡ v17 detail @ 20:15:48
+description: 🎯 v18 cli verify @ 20:22:25
 ---
 # Hello Command
-⚡ v17 detail @ 20:15:48
+🎯 v18 cli verify @ 20:22:25
