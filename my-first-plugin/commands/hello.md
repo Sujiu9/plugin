@@ -1,7 +1,7 @@
 ---
-description: 🟢 v7 by 插件级「更新」按钮 15:47:05
+description: 🟢 v8 plugin-level UPDATE button @ 15:56:29
 ---
 
 # Hello Command
 
-🟢 v7 by 插件级「更新」按钮 15:47:05
+🟢 v8 plugin-level UPDATE button @ 15:56:29
