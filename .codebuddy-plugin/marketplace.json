@@ -5,14 +5,14 @@
     "name": "Sujiu9"
   },
   "metadata": {
-    "version": "14.0.0"
+    "version": "15.0.0"
   },
   "plugins": [
     {
       "name": "my-first-plugin",
-      "description": "🔥 v14 cache-fix verify @ 20:01:19",
+      "description": "✨ v15 detail-page test @ 20:03:07",
       "source": "./my-first-plugin",
-      "version": "14.0.0",
+      "version": "15.0.0",
       "author": {
         "name": "Sujiu9"
       }

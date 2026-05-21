@@ -1,5 +1,5 @@
 ---
-description: 🔥 v14 cache-fix verify @ 20:01:19
+description: ✨ v15 detail-page test @ 20:03:07
 ---
 # Hello Command
-🔥 v14 cache-fix verify @ 20:01:19
+✨ v15 detail-page test @ 20:03:07
