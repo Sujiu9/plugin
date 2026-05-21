@@ -1,7 +1,5 @@
 ---
-description: ⚡ v9 plugin UPDATE @ 15:58:06
+description: 🚀 v10 final hand-test @ 16:00:17
 ---
-
 # Hello Command
-
-⚡ v9 plugin UPDATE @ 15:58:06
+🚀 v10 final hand-test @ 16:00:17
