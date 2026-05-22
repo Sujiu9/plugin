@@ -1,7 +1,5 @@
 ---
-description: 🟢 v7 by 插件级「更新」按钮 15:47:05
+description: ✅ v20 official cli @ 20:52:24
 ---
-
 # Hello Command
-
-🟢 v7 by 插件级「更新」按钮 15:47:05
+✅ v20 official cli @ 20:52:24

@@ -1,8 +1,8 @@
 {
-    "name": "my-first-plugin",
-    "description": "\ud83d\udd35 v8 by \u63d2\u4ef6\u7ea7\u300c\u5237\u65b0\u300d\u6309\u94ae 15:05:00",
-    "version": "8.0.0",
-    "author": {
-        "name": "Sujiu9"
-    }
+  "name": "my-first-plugin",
+  "description": "🎬 v22 录屏演示 @ 21:08:20",
+  "version": "22.0.0",
+  "author": {
+    "name": "Sujiu9"
+  }
 }
