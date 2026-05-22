@@ -5,14 +5,14 @@
     "name": "Sujiu9"
   },
   "metadata": {
-    "version": "7.0.0"
+    "version": "8.0.0"
   },
   "plugins": [
     {
       "name": "my-first-plugin",
-      "description": "\ud83d\udfe2 v7 by \u63d2\u4ef6\u7ea7\u300c\u66f4\u65b0\u300d\u6309\u94ae 15:47:05",
+      "description": "\ud83d\udd35 v8 by \u63d2\u4ef6\u7ea7\u300c\u5237\u65b0\u300d\u6309\u94ae 15:05:00",
       "source": "./my-first-plugin",
-      "version": "7.0.0",
+      "version": "8.0.0",
       "author": {
         "name": "Sujiu9"
       }
